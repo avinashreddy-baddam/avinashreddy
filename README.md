@@ -17,4 +17,4 @@ Databricks · PySpark · SQL · Delta Lake · AWS (S3, Lambda, IAM) · Airflow �
 
 ## Contact
 - Email: avesred7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/(https://www.linkedin.com/in/avinash-reddy-baddam/)/
+- LinkedIn: https://www.linkedin.com/in/avinash-reddy-baddam/
